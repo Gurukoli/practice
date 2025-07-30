@@ -1,1 +1,5 @@
+Test performed
 
+1. positive scenaio - able to get the status for any other bearer token - pass
+2.Negative scenario - getting unauthorized error if token is xyz - pass
+3.negative scenario - tried calling api wrongly - getting 404 not found error  - pass 
